@@ -1,4 +1,4 @@
- Networking Task 01: Understanding Your Network Environment
+** Networking Task 01: Understanding Your Network Environment**
 
 ## Student Information
 
@@ -119,13 +119,16 @@ Traceroute identifies the path taken by data packets from the source device to t
 
 # Screenshots Included
 
-✅ ipconfig_all.png
+ipconfig_all.png
+
 ![IP Configuration](Screenshots/ipconfig.png)
 
-✅ ping_google.png
+ping_google.png
+
 ![IP Configuration](Screenshots/ping.png)
 
-✅ tracert_google.png
+tracert_google.png
+
 ![IP Configuration](Screenshots/tracert.png)
 
 
