@@ -1,4 +1,4 @@
-<img width="842" height="870" alt="Screenshot 2026-06-05 134805" src="https://github.com/user-attachments/assets/f9451688-f603-466d-9630-6253f0068038" /># Networking Task 01: Understanding Your Network Environment
+ Networking Task 01: Understanding Your Network Environment
 
 ## Student Information
 
@@ -120,11 +120,13 @@ Traceroute identifies the path taken by data packets from the source device to t
 # Screenshots Included
 
 ✅ ipconfig_all.png
-![IP Configuration](Screenshots/ipconfig_all.png)
+![IP Configuration](Screenshots/ipconfig.png)
 
 ✅ ping_google.png
+![IP Configuration](Screenshots/ping.png)
 
 ✅ tracert_google.png
+![IP Configuration](Screenshots/tracert.png)
 
 
 ---
